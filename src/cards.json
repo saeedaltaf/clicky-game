@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Arsenal",
+    "image": "/images/arsenal.gif",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Aston",
+    "image": "/images/aston.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Burnley",
+    "image": "/images/burnley.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Chelsea",
+    "image": "/images/chelsea.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Everton",
+    "image": "/images/everton.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Liverpool",
+    "image": "/images/liverpool.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Man City",
+    "image": "/images/mancity.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Man Utd",
+    "image": "/images/manutd.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Newcastle",
+    "image": "/images/newcastle.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Norwich",
+    "image": "/images/norwich.png",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "Sheffield Utd",
+    "image": "/images/sheffield.png",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "Southampton",
+    "image": "/images/southampton.png",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "Tottenham",
+    "image": "/images/tottenham.png",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "name": "Watford",
+    "image": "/images/watford.png",
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "name": "Wolves",
+    "image": "/images/wolves.png",
+    "clicked": false
+  }
+]
